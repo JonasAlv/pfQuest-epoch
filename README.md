@@ -1,5 +1,7 @@
 # pfQuest [Project Epoch DB]
 
+Note: upstream changed license from MIT to be restrictive and limit acess and usage(other than pulling from GH, also they stated servers cant host the addons on their servers launchers), this repo is from [this commit](https://github.com/Bennylavaa/pfQuest-epoch/tree/73d41dcd9003c39eaffb23efc7a9d74d137fdfb9) before the license change. 
+
 An extension for [pfQuest-wotlk](https://github.com/shagu/pfQuest) which adds support for [Project Epoch](https://www.project-epoch.net/).
 The latest version of [pfQuest-wotlk](https://github.com/shagu/pfQuest) is required and only enUS-Gameclients are supported at the time.
 
