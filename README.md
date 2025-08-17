@@ -8,8 +8,8 @@ The latest version of [pfQuest-wotlk](https://github.com/shagu/pfQuest) is requi
 ### Installation
 1. Download the latest **[pfQuest-wotlk](https://github.com/shagu/pfQuest/releases/latest/download/pfQuest-enUS-wotlk.zip)**
 2. Unzip it and place the "pfQuest-wotlk" folder into Wow-Directory\Interface\AddOns
-3. Download the latest **[pfQuest-epoch](https://github.com/Bennylavaa/pfQuest-epoch/archive/master.zip)**
-4. Unzip the file and Rename the folder "pfQuest-epoch-master" to "pfQuest-epoch"
+3. Download the latest **[pfQuest-epoch](https://github.com/JonasAlv/pfQuest-epoch/archive/main.zip)**
+4. Unzip the file and Rename the folder "pfQuest-epoch-main" to "pfQuest-epoch"
 5. Copy "pfQuest-epoch" into Wow-Directory\Interface\AddOns
 6. It should look something like this:
 
@@ -25,7 +25,7 @@ You might want to also look into the "pfQuest-tbc" databases to learn how entrie
 Demo quest commit: [Do Slavers Keep Records?
 ](https://github.com/Bennylavaa/pfQuest-epoch/commit/39abc567413a0c004ea22ec38fed4eb2e486e9d6)
 
-If you wish to add more content, feel free to contribute and send [Pull Requests](https://github.com/Bennylavaa/pfQuest-epoch/pulls).
+If you wish to add more content, feel free to contribute and send [Pull Requests](https://github.com/JonasAlv/pfQuest-epoch/pulls).
 
 ### Useful Macros
 Your Current Cords:
